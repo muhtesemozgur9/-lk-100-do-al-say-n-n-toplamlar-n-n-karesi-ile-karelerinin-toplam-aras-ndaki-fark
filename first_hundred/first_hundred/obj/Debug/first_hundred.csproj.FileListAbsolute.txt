@@ -1,6 +1,0 @@
-c:\users\ozgur\documents\visual studio 2017\Projects\first_hundred\first_hundred\obj\Debug\first_hundred.csprojResolveAssemblyReference.cache
-c:\users\ozgur\documents\visual studio 2017\Projects\first_hundred\first_hundred\bin\Debug\first_hundred.exe.config
-c:\users\ozgur\documents\visual studio 2017\Projects\first_hundred\first_hundred\bin\Debug\first_hundred.exe
-c:\users\ozgur\documents\visual studio 2017\Projects\first_hundred\first_hundred\bin\Debug\first_hundred.pdb
-c:\users\ozgur\documents\visual studio 2017\Projects\first_hundred\first_hundred\obj\Debug\first_hundred.exe
-c:\users\ozgur\documents\visual studio 2017\Projects\first_hundred\first_hundred\obj\Debug\first_hundred.pdb
